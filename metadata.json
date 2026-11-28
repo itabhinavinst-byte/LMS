@@ -1,0 +1,8 @@
+{
+  "name": "AITM — Abhinav Institute of Technology & Management",
+  "description": "Dynamic Institute Website and Complete Learning Management System for Abhinav Institute of Technology & Management (AITM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
